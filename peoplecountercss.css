@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-image: url(pexels-creative-vix-9754.jpg);
 }
@@ -9,4 +10,17 @@ h1{
 button{
     width: 5rem;
     height: 2rem;
+=======
+body{
+    background-image: url(pexels-creative-vix-9754.jpg);
+}
+
+h1{
+    color: brown;
+}
+
+button{
+    width: 5rem;
+    height: 2rem;
+>>>>>>> 90c7fcf81d746478c32c637535b975983d4e1bb6
 }
